@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NUnitTestProject17\NUnitTestProject17.csproj" />
+    <ProjectReference Include="..\NUnitTestProject17\NUnitTestProjectReuse.csproj" />
   </ItemGroup>
 
 </Project>

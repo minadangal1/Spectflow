@@ -108,8 +108,8 @@ C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\bin\Debug\netco
 C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
 C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\bin\Debug\netcoreapp3.1\WebDriver.dll
 C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\bin\Debug\netcoreapp3.1\SpecFlow.Assist.Dynamic.dll
-C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject17.dll
-C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject17.pdb
 C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.dll
 C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb
 C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProjectReuse.dll
+C:\Users\minad\source\repos\NUnitTestProject17\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProjectReuse.pdb
