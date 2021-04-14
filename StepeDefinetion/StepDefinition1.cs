@@ -37,6 +37,7 @@ namespace NUnitTestProject1.StepeDefinetion
                 signinPageView.SetuserName(item.UserId);
                 signinPageView.SetPassword(item.Password);
                 signinPageView.ClickLoginButton();
+                Console.WriteLine(item.Password);
 
                 
 
