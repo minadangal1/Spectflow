@@ -70,6 +70,7 @@ namespace NUnitTestProject1.StepeDefinetion
             signinPageView.SetuserName("mngr318486");
             signinPageView.SetPassword("UrYgYpA");
             signinPageView.ClickLoginButton();
+            string a = "mina";
         }
 
 
